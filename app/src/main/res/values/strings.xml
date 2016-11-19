@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">EyBarro</string>
+    <string name="lblOpenExistingImage">Open Existing Image</string>
+    <string name="seleccionar">Elige un lugar</string>
+    <string-array name="lugares">
+        <item>Biblioteca Karl C. Parrish</item>
+        <item>Bloque A</item>
+        <item>Bloque Administrativo I</item>
+        <item>Bloque Administrativo II</item>
+        <item>Bloque B</item>
+        <item>Bloque C</item>
+        <item>Bloque D</item>
+        <item>Bloque E</item>
+        <item>Bloque F</item>
+        <item>Bloque G. Edificio Postgrados</item>
+        <item>Bloque I. Instituto de Idiomas</item>
+        <item>Bloque J</item>
+        <item>Bloque K. Edificio de Ingenierías</item>
+        <item>Bloque L. Edificio Julio Muvdi</item>
+        <item>Bloque M</item>
+        <item>Laboratorio de Arquitectura Tropical</item>
+        <item>Laboratorio de Energías Renovables</item>
+        <item>Bloque de Salud</item>
+        <item>Canchas Múltiples</item>
+        <item>Coliseo Cultural y Deportivo Los Fundadores</item>
+        <item>Parqueadero administrativo principal</item>
+        <item>Parqueadero Bloque C</item>
+        <item>Parqueadero Bloque J</item>
+        <item>Parqueadero canchas de futbol</item>
+        <item>Parqueadero Coliseo</item>
+        <item>Parqueadero Edificio Postgrados</item>
+        <item>Parqueadero 10</item>
+        <item>DuNord Café</item>
+        <item>DuNord Express</item>
+        <item>DuNord Graphique</item>
+        <item>DuNord Plaza</item>
+        <item>DuNord Terrasse</item>
+        <item>Iwanna Store</item>
+        <item>Km5</item>
+        <item>Le Salon</item>
+        <item>Restaurante 1966</item>
+    </string-array>
 </resources>

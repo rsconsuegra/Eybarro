@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1025461257958",
+    "firebase_url": "https://eybarro-8c5e4.firebaseio.com",
+    "project_id": "eybarro-8c5e4",
+    "storage_bucket": "eybarro-8c5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025461257958:android:1d4d627f23e11068",
+        "android_client_info": {
+          "package_name": "org.underpressureapps.eybarro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025461257958-la3i9s4o78bu4adsspduh1npi51vshk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.underpressureapps.eybarro",
+            "certificate_hash": "8818A1353D7517B6A8F0B43D647FD1F9080DDEE7"
+          }
+        },
+        {
+          "client_id": "1025461257958-lo1eoa8hheq93cumrb49lahdq29l4oi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.underpressureapps.eybarro",
+            "certificate_hash": "7AC7568425962904806986CECE43814722CD817E"
+          }
+        },
+        {
+          "client_id": "1025461257958-uu88393noajdahu26r29283jnhgiit2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKrPgLgHgjbcK2-iP7tfKr6aFRSmMy04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025461257958-uu88393noajdahu26r29283jnhgiit2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
